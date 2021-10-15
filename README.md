@@ -1,4 +1,4 @@
-# Welcome to my Github Profile
+# Ben Wainwright
 
 My name is Ben; I'm a professional software engineer currently working at Cinch Cars in Manchester.
 
